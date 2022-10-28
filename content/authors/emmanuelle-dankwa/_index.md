@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Timothy Wolock
+title: Emmanuelle Dankwa
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,7 +10,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Imperial College London
+  - name: Harvard School of Public Health
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,20 +18,36 @@ bio:
 
 
 
+interests:
+
+- Spatial statistics
+- Gaussian Processes
+- Deep Generative Modelling
+- Bayesian survey design
+- Epidemiological applications
+- Bayesian workflow
+
+education:
+  courses:
+    - course:
+      institution:  
+      year:
+    - course:
+      institution:
+      year:
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:tim.wolock@gmail.com'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/emman_dankwa
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=gVD8WZkAAAAJ&hl=en&oi=sra
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/twolock
+    link: https://scholar.google.com/citations?user=BEsRxSMAAAAJ&hl=en&oi=ao
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -49,3 +65,5 @@ highlight_name: false
 user_groups:
   - Organisers
 ---
+
+My background is in Bayesian modelling of spatiotemporal disease surveillance and environmental data, including point pattern data analysis and detection of hotspots on gridded surfaces. Currently, I am interested in using deep generative modelling to power MCMC inference in classical spatial statistics, as well as adaptive survey design.
