@@ -13,6 +13,9 @@ main:
   - name: Schedule
     url: '#schedule'
     weight: 30
+  - name: Submit
+    url: '#submit'
+    weight: 60
   - name: Contact
     url: '#contact'
     weight: 70
