@@ -21,6 +21,8 @@ The workshop will employ a double-anonymous review process. Each submission will
 * Relevance to the workshop; and 
 * Societal impacts
 
+Submissions should be formatted using the [ICLR 2023 latex template and formatting instructions](https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip). Papers must be submitted as a PDF file and there will be a strict upper limit of 4 pages for the main text, which should include all main results, figures, and tables. This page limit applies to both the initial and final camera-ready version, including all main results, figures, and tables. There is no page limit for the citations, and additional appendices for supplementary details are allowed, but reviewers are not expected to take the appendices into account.
+
 We only consider submissions that haven’t been published in any peer-reviewed venue, including ICLR 2023 conference. We allow dual submission with other workshops or conferences. The workshop is non-archival and will not have any official proceedings. All accepted papers will be allocated either a poster presentation, or a talk slot.
 
 **Important Dates**
