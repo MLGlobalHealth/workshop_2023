@@ -4,7 +4,9 @@ headless: true
 weight: 100
 ---
 
-We invite submissions on machine learning and global health to the first Machine Learning and Global Health (ML&GH) workshop at ICLR 2023.
+We invite submissions on machine learning and global health to the first Machine Learning and Global Health (ML&GH) workshop at ICLR 2023. Workshop is on  May 5th 2023 hybrid in Kigali, Rwanda & remote.
+Submit your work to [OpenReview.](https://openreview.net/group?id=ICLR.cc/2023/Workshop/MLGH)
+{style="color: white; padding-bottom: 1rem"}
 
 This workshop will start a lasting and consistent effort to close the gap between advances in machine learning, practitioners and policy makers working in public health globally. It will focus on difficult public health problems and relevant machine learning and statistical methods, which includes but is not limited to:
 Disease transmission models;
@@ -25,7 +27,3 @@ We only consider submissions that haven’t been published in any peer-reviewed 
  * **Submission Deadline:** February 2, 2023, Anywhere on Earth (AoE)
  * **Author notification:** March 3, 2023, Anywhere on Earth (AoE)
  * **Camera ready deadline:** April 25, 2023, Anywhere on Earth (AoE)
-
-May 5th 2023 hybrid in Kigali, Rwanda & remote  
-Submit your work top [OpenReview.](https://openreview.net/group?id=ICLR.cc/2023/Workshop/MLGH)
-{style="color: white; padding-bottom: 1rem"}
