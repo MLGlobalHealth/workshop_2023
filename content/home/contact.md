@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: mlglobalhealth@gmail
+  email: mlglobalhealth@gmail.com
   phone: +45 52 74 35 75
   # address:
   #   street: 450 Serra Mall
