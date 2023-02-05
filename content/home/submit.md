@@ -26,6 +26,6 @@ Submissions should be formatted using the [ICLR 2023 latex template and formatti
 We only consider submissions that haven’t been published in any peer-reviewed venue, including ICLR 2023 conference. We allow dual submission with other workshops or conferences. The workshop is non-archival and will not have any official proceedings. All accepted papers will be allocated either a poster presentation, or a talk slot.
 
 **Important Dates**
- * **Submission Deadline:** February 2, 2023, Anywhere on Earth (AoE)
+ * **Submission Deadline:** ~~February 2, 2023~~ February 10, 2023, Anywhere on Earth (AoE)
  * **Author notification:** March 3, 2023, Anywhere on Earth (AoE)
  * **Camera ready deadline:** April 25, 2023, Anywhere on Earth (AoE)
