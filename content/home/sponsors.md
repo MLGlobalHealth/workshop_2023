@@ -7,7 +7,7 @@ widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 85 # Order that this section will appear.
 title: Sponsors
-subtitle: 'Would like to join the community and improve your tech brand? [Contact Us](#contact)'
+subtitle: 'Would like to join and help us? [Contact Us](#contact)'
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
@@ -17,3 +17,4 @@ design:
 ---
 
 ![Machine Learning & Global Health Network](sponsors/mlgh.png)
+![Abdul Latif Jameel Institute for Disease and Emergency Analytics, School of Public Health, Imperial College London](sponsors/icl.png)
