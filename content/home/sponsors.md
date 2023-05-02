@@ -18,3 +18,5 @@ design:
 
 ![Machine Learning & Global Health Network](sponsors/mlgh.png)
 ![Abdul Latif Jameel Institute for Disease and Emergency Analytics, School of Public Health, Imperial College London](sponsors/icl.png)
+![Google](sponsors/google.png)
+![Wellcome Trust](sponsors/wt.jpeg)
