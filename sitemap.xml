@@ -42,6 +42,10 @@
   <url>
     <loc></loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc></loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/tags/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><changefreq>weekly</changefreq></url></urlset>
