@@ -13,8 +13,8 @@ main:
   - name: Schedule
     url: '#schedule'
     weight: 30
-  - name: Submit
-    url: '#submit'
+  - name: Papers
+    url: '#papers'
     weight: 60
   - name: Contact
     url: '#contact'

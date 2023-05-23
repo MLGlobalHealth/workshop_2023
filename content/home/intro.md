@@ -11,9 +11,9 @@ title: |
 cta:
   url: '#schedule'
   label: '<span style="color: white">Schedule</span>'
-cta:
-  url: 'https://openreview.net/group?id=ICLR.cc/2023/Workshop/MLGH'
-  label: '<span style="color: white">Submit</span>'
+# cta:
+#   url: 'https://openreview.net/group?id=ICLR.cc/2023/Workshop/MLGH'
+#   label: '<span style="color: white">Submit</span>'
 design:
   background:
   columns: '1'
